@@ -54,7 +54,24 @@
           "user": "fuunnx",
           "repo": "testCompositorIO"
         }
-      ]
+      ],
+      "text": "feffefefef",
+      "slug": "efefefefef",
+      "links": [
+        {
+          "href": "efefe",
+          "text": "effeeffefefef"
+        },
+        {
+          "href": "efef",
+          "text": "efefefefefef"
+        },
+        {
+          "href": "efefefef",
+          "text": "efefefef"
+        }
+      ],
+      "image": ""
     },
     {
       "component": "article",
